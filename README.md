@@ -1,4 +1,4 @@
-# 🧩 Node.js — User & Community Dashboard API
+#  Node.js — User & Community Dashboard API
 
 This project is a backend API built with **Node.js** and **Express.js** to simulate a simple dashboard for managing users and communities.  
 It includes REST API endpoints, in-memory data handling, and a DSA-based utility function with unit testing using **Jest**.
@@ -25,7 +25,7 @@ The backend provides:
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 node_assigment/
 │
@@ -137,17 +137,17 @@ We used Jest and Supertest for testing utilities and API endpoints.
 Run tests:
 npm test
 Tests included:
-✅ Positive case — common elements exist
+Positive case — common elements exist
 
-🚫 Negative case — no common elements
+ Negative case — no common elements
 
-🧩 Edge case — empty arrays
+Edge case — empty arrays
 
-✅ API Test — GET /users endpoint returns valid data
+ API Test — GET /users endpoint returns valid data
 
 Expected Output:
 
 
 PASS  tests/findCommonMembers.test.js
 PASS  tests/users.test.js
-All tests passed ✅
+All tests passed 
